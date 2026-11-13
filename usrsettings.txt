@@ -1,0 +1,8 @@
+[USER]
+widthscreen = 400
+heightscreen = 400
+mouthposx = 200
+mouthposy = 200
+mouthwidth = 200
+mouthheight = 50
+filename = ./images/blank.png
